@@ -12,5 +12,5 @@
 
  <p>
 <img src= "https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/53908e60559f2b54e183f6e7ffba2da37afafa41/Screenshot%202026-05-16%20at%2016.12.57.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src= "https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/4cd6150275b1246cfe0c50bea12c6219cafaa430/Screenshot%202026-05-16%20at%2016.19.12.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "" width="250" height="250" /> 
+<img src= "https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/4cd6150275b1246cfe0c50bea12c6219cafaa430/Screenshot%202026-05-16%20at%2016.19.12.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/4cd6150275b1246cfe0c50bea12c6219cafaa430/Screenshot%202026-05-16%20at%2016.19.12.png" width="300" height="300" /> 
 </p>
