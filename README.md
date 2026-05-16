@@ -9,3 +9,8 @@
 <b>Process:</b> MDE - `Settings - Endpoints - Device Management - Onboarding - Download Onboarding Package - Click Zip File (Download as Administrator) - Type Y to run in PowerShell - Go back to MDE - Assets - Devices - Check Name of VM - Check active onboarded status`
 
 <H2>VM Isolation & Investigation</H2>
+
+ <p>
+<img src= "" width="250" height="250"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src= "" width="250" height="250"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "" width="250" height="250" /> 
+</p>
