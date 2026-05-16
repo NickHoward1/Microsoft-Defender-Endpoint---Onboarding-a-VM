@@ -11,6 +11,6 @@
 <H2>VM Isolation & Investigation</H2>
 
  <p>
-<img src= "" width="250" height="250"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src= "https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/53908e60559f2b54e183f6e7ffba2da37afafa41/Screenshot%202026-05-16%20at%2016.12.57.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src= "" width="250" height="250"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "" width="250" height="250" /> 
 </p>
