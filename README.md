@@ -35,7 +35,7 @@ Above, you will see that I generated various logs by creating and deleting .txt 
 
 <H2>Remote Code Execution Detection</H2>
 
-<img src= "https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/8c8b7ef97cf1ea695fb0542e40f4484356f25159/Screenshot%202026-05-17%20at%2011.43.14.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/8c8b7ef97cf1ea695fb0542e40f4484356f25159/Screenshot%202026-05-17%20at%2011.43.14.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src= "https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/986c8fb04f902c70c4dd346913395618662e03b0/Screenshot%202026-05-17%20at%2012.56.41.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/8c8b7ef97cf1ea695fb0542e40f4484356f25159/Screenshot%202026-05-17%20at%2011.43.14.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
