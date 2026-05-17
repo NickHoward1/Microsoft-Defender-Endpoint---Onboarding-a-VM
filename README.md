@@ -37,9 +37,13 @@ Above, you will see that I generated various logs by creating and deleting .txt 
 
 <b>PowerShell Execution code that was run for the lab:</b> `cmd.exe /c powershell.exe -ExecutionPolicy Bypass -NoProfile -Command "Invoke-WebRequest -Uri 'https://sacyberrange00.blob.core.windows.net/vm-applications/7z2408-x64.exe' -OutFile C:\ProgramData\7z2408-x64.exe; Start-Process 'C:\programdata\7z2408-x64.exe' -ArgumentList '/S' -Wait"`
 
-<img src= "https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/431a12eb10f3f03f3bf1e844364df5b0d5875712/Screenshot%202026-05-17%20at%2013.06.41.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/1570cb92dc945f35fde65afcc7522c1ed69c8e91/Screenshot%202026-05-17%20at%2013.22.45.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/431a12eb10f3f03f3bf1e844364df5b0d5875712/Screenshot%202026-05-17%20at%2013.06.41.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src= "https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/431a12eb10f3f03f3bf1e844364df5b0d5875712/Screenshot%202026-05-17%20at%2013.06.41.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/1570cb92dc945f35fde65afcc7522c1ed69c8e91/Screenshot%202026-05-17%20at%2013.22.45.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/2a0fa81c932bd8e9bcfbab27ea32168952b95e5d/Screenshot%202026-05-17%20at%2013.38.07.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
+<b>Screenshot1:</b> Shows me sending a PING to the VM's IP address checking whether the host is reachable and responding on the network using ICMP echo requests and replies.<br>
+<b>Screenshot2:</b> Shows a how I isolate the VM/device from the network. If we have a host that has been compromised and malware has been detected it is critical that we contain the virus to prevent it from spreading across the network, we can do this by isolating in MDE and then begin the remediation process of eradication, recovery and lesson learned.<br>
+<b>Process:</b> `MDE - Assets - Devices - More action (Top right) - Isolate Device - PING IP address on terminal/powerShell to see ICMP has timed out.` <br>
+<b>Screenshot3:</b> Shows the host has been released from isolation.<br>
+<b>Process:</b> `MDE - Assets - Devices - More action (Top right) - Release Device - PING IP address on terminal/powerShell to see if the host is reachable.` <br>
 
 
 
