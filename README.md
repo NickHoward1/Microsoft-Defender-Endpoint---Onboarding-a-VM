@@ -26,3 +26,18 @@
 The screenshot above shows how I collected an investigation package, which would be required when escalating a confirmed true positive incident to a senior SOC analyst for further investigation and response activities.
 
 <b>Process:</b> `MDE - Assets - Devices - More action (Top right) - Collect Investigation Package - Download`<br>
+
+<H2>VM Creating logs & Searching using KQL</H2>
+
+<img src= "https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/1c0d30b5e51bf06979fe721fa71341326baf0b06/Screenshot%202026-05-17%20at%2010.21.53.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/1c0d30b5e51bf06979fe721fa71341326baf0b06/Screenshot%202026-05-17%20at%2010.21.53.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+
+
+
+
+
+
+
+
