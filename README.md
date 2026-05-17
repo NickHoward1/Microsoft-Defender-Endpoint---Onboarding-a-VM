@@ -25,4 +25,4 @@
 
 The screenshot above shows how I collected an investigation package, which would be required when escalating a confirmed true positive incident to a senior SOC analyst for further investigation and response activities.
 
-
+<b>Process:</b> `MDE - Assets - Devices - More action (Top right) - Collect Investigation Package - Download`<br>
