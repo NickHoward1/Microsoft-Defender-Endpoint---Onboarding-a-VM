@@ -33,9 +33,9 @@ The screenshot above shows how I collected an investigation package, which would
 
 Above, you will see that I generated various logs by creating and deleting .txt files, as well as using Test-NetConnection across different ports to simulate network activity. In the second screenshot, I demonstrate how I used `DeviceFileEvents`, `DeviceProcessEvents`, `DeviceNetworkEvents`, and `DeviceEvents` within Microsoft Defender to identify and investigate the generated telemetry and activity logs.
 
+<H2>Remote Code Execution Detection</H2>
 
-
-
+<img src= "https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/8c8b7ef97cf1ea695fb0542e40f4484356f25159/Screenshot%202026-05-17%20at%2011.43.14.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/8c8b7ef97cf1ea695fb0542e40f4484356f25159/Screenshot%202026-05-17%20at%2011.43.14.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
