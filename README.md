@@ -17,5 +17,6 @@
 
 <b>Screenshot1:</b> Shows me sending a PING to the VM's IP address checking whether the host is reachable and responding on the network using ICMP echo requests and replies.<br>
 <b>Screenshot2:</b> Shows a how I isolate the VM/device from the network. If we have a host that has been compromised and malware has been detected it is critical that we contain the virus to prevent it from spreading across the network, we can do this by isolating in MDE and then begin the remediation process of eradication, recovery and lesson learned.<br>
-<b>Process:</b> MDE - Assets - Devices - More action (Top right) - Isolate Device - PING IP address to see 
-<b>Screenshot3:</b> Shows a table the number of failed login from external IP addresses, IoC of a brute force attack <br>
+<b>Process:</b> `MDE - Assets - Devices - More action (Top right) - Isolate Device - PING IP address on terminal/powerShell to see ICMP has timed out.` <br>
+<b>Screenshot3:</b> Shows the host has been released from isolation.<br>
+<b>Process:</b> `MDE - Assets - Devices - More action (Top right) - Release Device - PING IP address on terminal/powerShell to see if the host is reachable.` <br>
